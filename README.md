@@ -85,4 +85,4 @@
 - Sánchez-Ramírez S, Wilson AW, **Ryberg M**. 2017. Overview of phylogenetic approaches to mycorrhizal biogeography, diversity and evolution. ***Biogeography of Mycorrhizal Symbiosis***, 1-37. Springer
 
 ## Book reviews
-- **Ryberg, M**. 2015. The Ecological Genomics of Fungi. Edited by Francis Martin. Hoboken (New Jersey): Wiley Blackwell. ***The Quarterly Review of Biology*** 90:348
+- **Ryberg M**. 2015. The Ecological Genomics of Fungi. Edited by Francis Martin. Hoboken (New Jersey): Wiley Blackwell. ***The Quarterly Review of Biology*** 90:348
