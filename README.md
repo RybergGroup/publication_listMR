@@ -16,7 +16,7 @@
 - Abarenkov K, Kristiansson E, **Ryberg M**, Nogal-Prata S, Gómez-Martínez D, Stüer-Patowsky K, Jansson T, Põlme S, Ghobad-Nejhad M, Corcoll N, Scharn R, Sánchez-García M, Khomich M, Wurzbacher C, Nilsson RH. 2022. The curse of the uncultured fungus. ***MycoKeys*** 86:177-194.
 - Badou SA, Furneaux B, De Kesel A, Kalsoom Khan F, Houdanon RD, **Ryberg M**, Yorou NS. 2022. Paxilloboletus gen. nov., a new lamellate bolete genus from tropical Africa. ***Mycological Progress*** 21:243-256.
 - Codjia JEI, Wang PM, **Ryberg M**, Yorou NS, Yang ZL. 2022. Amanita sect. Phalloideae: two interesting non-lethal species from West Africa. ***Mycological Progress*** 21:39.
-- Furneaux B, Bahram M, Rosling A, Yorou NS, ***Ryberg M***. 2021. Long‐and short‐read metabarcoding technologies reveal similar spatiotemporal structures in fungal communities. ***Molecular Ecology Resources*** 21:1833-1849.
+- Furneaux B, Bahram M, Rosling A, Yorou NS, **Ryberg M**. 2021. Long‐and short‐read metabarcoding technologies reveal similar spatiotemporal structures in fungal communities. ***Molecular Ecology Resources*** 21:1833-1849.
 - Hiltunen M, **Ryberg M**, Johannesson H. 2021. ARBitR: an overlap-aware genome assembly scaffolder for linked reads. ***Bioinformatics*** 37:2203-2205
 - Meidl P, Furneaux B, Tchan KI, Kluting K, **Ryberg M**, Guissou M-L, Soro B, Traoré A, Konomou G, Yorou NS, Rosling A. 2021. Soil fungal communities of ectomycorrhizal dominated woodlands across West Africa. ***MycoKeys*** 81:45-68.
 - Sulistyo BP, Larsson KH, Haelewaters D, **Ryberg M**. 2021. Multigene phylogeny and taxonomic revision of Atheliales sl: Reinstatement of three families and one new family, Lobuliciaceae fam. nov. ***Fungal Biology*** 125:239-55.
